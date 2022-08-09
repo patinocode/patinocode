@@ -1,5 +1,4 @@
 ```
 patino@THEmainframe.local $ python patino.py
-
-loading ...
 ```
+![Loading](loading.gif)
